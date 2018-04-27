@@ -1,4 +1,3 @@
-console.log('abc');
 const
   manifest          = require('../manifest'),
   ImageminPlugin    = require('imagemin-webpack-plugin').default;

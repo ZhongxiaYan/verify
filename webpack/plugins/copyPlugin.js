@@ -1,4 +1,3 @@
-console.log('abc');
 const
   path              = require('path'),
   manifest          = require('../manifest'),
